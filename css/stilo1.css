@@ -1,0 +1,52 @@
+h4 {
+    color: rgb(229, 231, 68);
+}
+
+#cabecera {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+#pais1 {
+    color: lightgreen;
+}
+
+#pais2 {
+    color: rgb(199, 15, 86);
+}
+
+#pais3 {
+    color: rgb(207, 195, 23);
+}
+
+h2 {
+    color: red;
+}
+
+#capitales1 {
+    background-color: rgb(5, 142, 73);
+    color: black;
+    border: 2px;
+    margin: 10px;
+    padding: 5px;
+    padding-bottom: 15px;
+}
+
+#capitales2 {
+    background-color: rgb(212, 113, 204);
+    color: black;
+    border: 2px;
+    margin: 10px;
+    padding: 5px;
+    padding-bottom: 15px;
+}
+
+#capitales3 {
+    background-color: rgb(5, 126, 142);
+    color: black;
+    border: 2px;
+    margin: 10px;
+    padding: 5px;
+    padding-bottom: 15px;
+}
