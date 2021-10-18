@@ -1,0 +1,27 @@
+ul {
+    background-color: aqua;
+    color: rgb(216, 238, 20);
+    padding: 5px;
+    margin: 20px;
+    border: 12px;
+}
+
+ul li {
+    padding: 5px;
+    background-color: brown;
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+ol {
+    background-color: rgb(189, 201, 214);
+    color: rgb(19, 16, 16);
+    padding: 10 px;
+}
+
+ol li {
+    background-color: antiquewhite;
+    padding: 5px;
+    margin-left: 20px;
+    list-style-type: upper-roman;
+}
